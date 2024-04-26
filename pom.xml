@@ -17,6 +17,7 @@
         <module>Runnable-Interface</module>
         <module>Synchronized-KeyWord</module>
         <module>Thread-Pool</module>
+        <module>Thread-Priority</module>
     </modules>
 
     <properties>
